@@ -1,0 +1,10 @@
+Take a natural number as input from the user and then print a triangular output as given in
+the example below. Use for loop in the program.
+Please input a natural number: 5
+
+
+     1
+     12
+     123
+     1234
+     12345
